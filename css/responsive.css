@@ -1,0 +1,259 @@
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {	
+.slider-text {
+width: 991px;
+}
+.apps-frame img {
+	width: 410px;
+	height: 700px;
+}
+.section-title {
+	margin-bottom: 30px;
+}
+}
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+body {
+font-size: 15px;
+line-height: 24px;
+}	
+h1 {
+font-size: 22px;
+}
+h2 {
+font-size: 18px;
+}
+h3 {
+font-size: 16px;
+}
+.logo {
+	text-align: center;
+}
+.menu {
+	text-align: center;
+}
+.apps-feature-text {
+	margin-bottom: 60px;
+}
+.sec-title {
+	margin: 0 0px 50px 0px;
+}
+.apps-frame img {
+	width: 380px;
+	height: 660px;
+}
+.apps-feature-img {
+	text-align: center;
+}
+.slider-text {
+width: 100%;
+}
+.all-slide .owl-controls .owl-prev{left:0px;}
+.all-slide .owl-controls .owl-next{right:0px;}
+.main-menu li a {
+padding: 28px 10px;
+}
+.banner-sec {
+	padding-bottom: 90px;
+	height: auto;
+	background: #a428a9;
+}
+.service-thumb {
+	margin-top: 50px;
+}
+.bannar-thumb {
+	margin-top: 40px;
+}
+.carve-banner-thumb {
+	position: relative;
+	width: 100%;
+}
+.carve-banner-sec::before,
+.carve-banner-sec::after {
+display:none;
+}
+.carve-banner-sec {
+	background: #fb4d7e;
+}
+.counting_sl {
+	margin: 40px 0;
+}
+
+
+}
+
+
+@media only screen and (min-width: 0px) and (max-width: 767px) {
+body {
+font-size: 14px;
+line-height: 24px;
+}	
+h1 {
+font-size: 22px;
+}
+h2 {
+font-size: 18px;
+}
+h3 {
+font-size: 16px;
+}
+.pt-150{padding-top:60px}
+.pb-100{padding-bottom:60px}
+.pb-120{padding-bottom:40px}
+.sec-title {
+	margin: 0 0px 50px 0px;
+}
+.call-to-action-text h2 {
+	font-size: 38px;
+}
+.section-title {
+width: 100%;
+}
+.section-title h1 {
+font-size: 38px;
+}
+.call-to-action-text{width:100%;}
+.inner-box {
+	margin-top: 0;
+	margin-bottom: 50px;
+}
+.counting_sl {
+	margin: 40px 0;
+}
+.bannar-thumb {
+	margin-top: 40px;
+}
+.carve-banner-thumb {
+	position: relative;
+	width: 100%;
+}
+.carve-banner-sec::before,
+.carve-banner-sec::after {
+display:none;
+}
+.carve-banner-sec {
+	background: #a428a9;
+}
+.banner-sec {
+	padding-bottom: 90px;
+	height: auto;
+	background: #a428a9;
+}
+.apps-feature-text {
+	margin-bottom: 40px;
+}
+
+.apps-frame img {
+	width: 380px;
+	height: 660px;
+}
+.apps-feature-img {
+	text-align: center;
+}
+.mean-container .mean-nav{margin-top:0px;}
+.menu-sec.sticky_menu{position:relative;}
+.mean-container a.meanmenu-reveal {
+    color: #000;
+}
+.mean-container .mean-bar {
+    background: none !important;
+    position: absolute;
+    top: 140px;
+}
+.mean-container a.meanmenu-reveal {
+	color: #fff;
+	position: absolute;
+	top: -125px;
+}
+.mean-container a.meanmenu-reveal span {
+background: #fff;
+}
+.single-post-thumb img {
+	width: 100%;
+}
+.apps-frame {
+	display: none;
+}
+.all-apps-screenshots {
+	padding-top: 0px;
+}
+.apps-screenshots {
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+.apps-screenshots-single {
+	padding: 10px;
+}
+.slider-text {
+width: 100%;
+padding: 0px 50px;
+}
+.all-slide .owl-controls .owl-prev{left:0px;}
+.all-slide .owl-controls .owl-next{right:0px;}
+.slider-text .bannar-text {
+	width: 100%;
+}
+.apps-screenshots-single img {
+	width: 100%;
+}
+.menu-sec.menu-sticky.sticky_menu {
+	position: relative;
+}
+.sec-title h1 {
+	font-size: 34px;
+}
+.apps-feature-text h2 {
+	font-size: 34px;
+	line-height: 40px;
+	margin-bottom: 30px;
+}
+
+}
+
+@media only screen and (min-width: 0px) and (max-width: 510px) {
+.bannar-text ul li {
+	margin: 10px 0;
+}
+.apps-feature-text ul li {
+	margin: 10px 0;
+}
+}
+
+@media only screen and (min-width: 0px) and (max-width: 680px) {
+.bannar-text h1 {
+	font-size: 40px;
+	line-height: 50px;
+}
+.contact-field.contact-form,
+.contact-info {
+	width: 100%;
+}
+.contact-form {
+position: relative;
+}
+.contact-form-sec {
+	position: relative;
+}
+}
+
+@media only screen and (min-width: 0px) and (max-width: 550px) {
+
+}
+
+@media only screen and (min-width: 0px) and (max-width: 480px) {
+
+}
+
+@media only screen and (min-width: 0px) and (max-width: 390px) {
+.sec-title h1 {
+  font-size:28px;
+}
+
+
+}
+@media only screen and (min-width: 0px) and (max-width: 359px) {
+
+
+}
